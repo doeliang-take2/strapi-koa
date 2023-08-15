@@ -1,0 +1,53 @@
+{
+  "name": "auth-service",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "test": "jest --forceExit --detectOpenHandles",
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-i18n": "4.7.1",
+    "@strapi/plugin-users-permissions": "4.7.1",
+    "@strapi/strapi": "4.7.1",
+    "axios": "^1.3.5",
+    "cos-nodejs-sdk-v5": "^2.12.1",
+    "date-fns": "^2.29.3",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "qcloud-cos-sts": "^3.1.0",
+    "request": "^2.88.2",
+    "strapi-google-auth": "^0.1.2",
+    "xlsx": "^0.18.5"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "16b6b669-63e6-4ae5-9fd9-9dcf3bcb01d9"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "sqlite3": "^5.1.6",
+    "supertest": "^6.3.3"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      ".tmp",
+      ".cache"
+    ],
+    "testEnvironment": "node"
+  }
+
+
+}

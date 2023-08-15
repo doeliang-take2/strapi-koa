@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ehealth_applyrefundfaqs",
+  "info": {
+    "singularName": "ehealth-applyrefundfaq",
+    "pluralName": "ehealth-applyrefundfaqs",
+    "displayName": "EhealthApplyrefundfaq"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

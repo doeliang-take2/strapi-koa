@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "base_sys_menu",
+  "info": {
+    "singularName": "menu",
+    "pluralName": "menus",
+    "displayName": "Menu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "router": {
+      "type": "string"
+    },
+    "parentId": {
+      "type": "biginteger"
+    },
+    "type": {
+      "type": "integer"
+    },
+    "icon": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "parentpath": {
+      "type": "string"
+    },
+    "orderNum": {
+      "type": "integer"
+    }
+  }
+}

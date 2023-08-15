@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "off_quizs",
+  "info": {
+    "singularName": "off-quiz",
+    "pluralName": "off-quizs",
+    "displayName": "OffQuiz"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

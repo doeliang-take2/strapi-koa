@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_faqs",
+  "info": {
+    "singularName": "sys-faq",
+    "pluralName": "sys-faqs",
+    "displayName": "sysFaq"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

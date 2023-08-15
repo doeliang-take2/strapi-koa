@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_faqtypes",
+  "info": {
+    "singularName": "sys-faqtype",
+    "pluralName": "sys-faqtypes",
+    "displayName": "sysFaqtype"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

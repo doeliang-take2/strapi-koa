@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_users",
+  "info": {
+    "singularName": "sys-user",
+    "pluralName": "sys-users",
+    "displayName": "sysUser"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

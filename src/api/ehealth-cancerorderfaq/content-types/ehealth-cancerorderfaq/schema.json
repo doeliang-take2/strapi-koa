@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ehealth_cancerorderfaqs",
+  "info": {
+    "singularName": "ehealth-cancerorderfaq",
+    "pluralName": "ehealth-cancerorderfaqs",
+    "displayName": "EhealthCancerorderfaq"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

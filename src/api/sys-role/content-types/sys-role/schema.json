@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_roles",
+  "info": {
+    "singularName": "sys-role",
+    "pluralName": "sys-roles",
+    "displayName": "sysRole"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

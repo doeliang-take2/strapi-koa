@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_agreements",
+  "info": {
+    "singularName": "sys-agreement",
+    "pluralName": "sys-agreements",
+    "displayName": "sysAgreement"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

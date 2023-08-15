@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "off_contactuses",
+  "info": {
+    "singularName": "off-contactus",
+    "pluralName": "off-contactuses",
+    "displayName": "OffContactus"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

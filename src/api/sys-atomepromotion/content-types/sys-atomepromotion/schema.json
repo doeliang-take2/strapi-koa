@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_atomepromotions",
+  "info": {
+    "singularName": "sys-atomepromotion",
+    "pluralName": "sys-atomepromotions",
+    "displayName": "SysAtomepromotion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
